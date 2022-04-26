@@ -8,6 +8,9 @@ import newsapi.enums.Endpoint;
 
 import java.util.List;
 
+/*Author: Chiara Fedrizzi
+Repo-Link: https://github.com/chiarafedrizzi/NewsAnalyzer
+ */
 public class NewsAPIExample {
 
     public static final String APIKEY = "myAPIKey";
